@@ -51,8 +51,9 @@
 ### 3. تحلیل سفارشات 
 
 تحلیل مکانی توزیع سفارش‌ها در شهرهای ایران.
+***
 
-![Logistics Dashboard](screenshots/05_logistics.png)
+![Logistics Dashboard](screenshots/03_logistics.png)
 
 - نقشه پُرشده و نقشه حبابی: حجم سفارش و GMV به تفکیک شهر
 
